@@ -1,0 +1,5 @@
+export const metadata = {
+    title: "FAQ - Wheel Chockers by Elastomech",
+    description: "Explore Elastomech's detailed FAQ on wheel chockers. Learn about rubber, polyurethane, and metal wheel chockers for trucks, aircraft, and heavy machinery. Get expert insights on selection, installation, safety regulations, and maintenance for industrial and commercial applications.",
+    keywords: "wheel chockers, rubber wheel chockers, heavy-duty wheel chockers, truck chockers, aircraft wheel chockers, trailer chockers, industrial wheel chockers, vehicle safety blocks, construction equipment chockers, mining vehicle chockers, OSHA-compliant chockers, railway wheel chockers, forklift wheel chockers, polyurethane chockers, steel wheel chockers, durable wheel chockers, non-slip wheel chockers, portable wheel chockers, wheel chock maintenance, best wheel chockers, buy wheel chockers, Elastomech wheel chockers, safety wheel chockers"
+}; 

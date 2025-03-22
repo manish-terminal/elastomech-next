@@ -1,0 +1,5 @@
+export const metadata = {
+    title: "FAQ - Dock Fenders by Elastomech",
+    description: "Explore Elastomech's detailed FAQ on dock fenders. Learn about rubber, foam-filled, and pneumatic dock fenders for marine and industrial use. Find information on installation, maintenance, and why Elastomech's high-impact, weather-resistant fenders are the best choice for docks, ships, and ports.",
+    keywords: "dock fenders, rubber dock fenders, marine dock fenders, boat fenders, ship docking fenders, heavy-duty fenders, impact protection, industrial fenders, custom dock fenders, durable marine fenders, dock bumper guards, port safety solutions, vessel docking solutions, dock protection, fender maintenance, fender installation guide, dock accessories, Elastomech dock solutions, fender impact absorption, dock fender customization"
+}; 

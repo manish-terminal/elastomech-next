@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/products/page": "app/products/page.js",
+  "/faq/rubber-stoppers/page": "app/faq/rubber-stoppers/page.js",
+  "/faq/speed-breakers/page": "app/faq/speed-breakers/page.js",
+  "/faq/tipper-pads/page": "app/faq/tipper-pads/page.js",
+  "/faq/dock-fenders/page": "app/faq/dock-fenders/page.js"
+}
